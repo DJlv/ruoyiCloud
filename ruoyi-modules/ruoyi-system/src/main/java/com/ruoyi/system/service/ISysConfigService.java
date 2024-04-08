@@ -2,7 +2,6 @@ package com.ruoyi.system.service;
 
 import java.util.List;
 import com.ruoyi.system.domain.SysConfig;
-import org.apache.ibatis.annotations.Mapper;
 
 /**
  * 参数配置 服务层
